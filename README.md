@@ -1,12 +1,12 @@
 # WeatherWebApp
 
-## App Name 
-<span style="font-size: 2rem; font-weight: bold;">MealMatch</span>
+## Web App Name 
+<span style="font-size: 2rem; font-weight: bold;"></span>
 <br>
 <img src="" alt="App Logo" class="app-logo">
 
 
-## App Contributors
+## Web App Contributors
 <!--- Pictures of team members --->
 <p align="center">
 <table>
@@ -42,8 +42,6 @@
   </tbody>
  </table>
  
- ## App Description
+ ## Web App Description
  <p>
-  Are you tired of endlessly scrolling through countless restaurant options, unsure of what to choose? Our app is here to help.
-our app suggests personalized food options based on your preferences. Whether you're looking for a quick snack or a fancy dinner, our app will help you find the perfect restaurant and dish for you.
-You can filter by cuisine, dietary restrictions, and location to find options that suit your needs. Our app also provides detailed information on each restaurant, including menus and hours. Our app is user-friendly and intuitive; With just a few taps, you can discover new cuisines, explore different restaurants, and satisfy your cravings. Download our Food Recommendation app today and enjoy a hassle-free dining experience.</p>
+</p>
